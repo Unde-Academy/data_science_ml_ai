@@ -14,10 +14,10 @@ Welcome to the official repository for the Data Science Department at Unde Acade
 📂 data_science_ml_ai
  ┣ 📂 class_notes/          # Lecture notes organized by topics
  ┣ 📂 assignments/
- ┃ ┣ 📂 student_name_1/
+ ┃ ┣ 📂 group_1/
  ┃ ┃ ┣ 📜 assignment_1.ipynb
  ┃ ┃ ┣ 📜 assignment_2.ipynb
- ┃ ┣ 📂 student_name_2/
+ ┃ ┣ 📂 group_2/
  ┃ ┃ ┣ 📜 assignment_1.ipynb
  ┃ ┃ ┣ 📜 assignment_2.ipynb
  ┃ ┣ 📂 templates/           # Assignment templates
@@ -47,7 +47,7 @@ git checkout -b student_name-assignment1
 ```
 ## 3. Navigate to your folder and add your assignment
 ```plaintext
-cd assignments/student_name
+cd assignments/group_1
 mv ~/Downloads/assignment_1.ipynb .
 ```
 ## 4. Stage and commit the changes
