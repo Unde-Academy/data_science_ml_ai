@@ -1,4 +1,4 @@
-# Unde Academy - Data Science Repository
+# Unde Academy - Data Science and AI Repository
 
 Welcome to the official repository for the Data Science Department at Unde Academy! This repository contains:
 
